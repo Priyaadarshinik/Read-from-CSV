@@ -27,7 +27,7 @@ print("rows",len(df.axes[1]))
 ```
 ## OUTPUT
 ![output](/output1.png)
-![output2](/output2.png)
+![output2](/output%202.png)
 ![output3](/output3.png)
 
 ## RESULT:
