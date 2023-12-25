@@ -29,7 +29,8 @@ print("rows",len(df.axes[1]))
 
 ![output](/output1.png)
 ![output2](/output%202.png)
-![output3](/output%203.png)
+
+![output3](/output3.png)
 
 ## RESULT:
 Thus the program is written to read the csv file.
